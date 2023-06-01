@@ -1,4 +1,6 @@
 **Documents**
 
+[Current CV](https://raw.githubusercontent.com/johntfoster/CV/gh-actions-autocommit/cv_cockrell.pdf){.external target="_blank"}
+
 [Research](./statements/research.qmd)
 
