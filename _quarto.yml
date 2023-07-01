@@ -14,5 +14,10 @@ format:
     css: styles.css
     toc: true
 
+execute:
+  echo: false
+
+jupyter: python3
+
 
 

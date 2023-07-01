@@ -4,3 +4,4 @@
 
 [Research](./statements/research.qmd)
 
+[Teaching](./statements/teaching.qmd)
