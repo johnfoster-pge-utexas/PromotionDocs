@@ -1,3 +1,10 @@
+---
+title: Teaching Statement
+author: John T. Foster 
+---
+
+# Overview
+
 I am a somewhat non-traditional teacher in that I rarely give a full 50/75 minute back-to-the-students blackboard-style lecture, preferring interactive project-based learning whenever possible. I have been an early adopter of the *reverse classroom* approach. I have developed three separate PGE courses (PGE 310/311, PGE 323M, PGE383 - High Performance Computing) using this teaching modality in which all of the traditional lecture materials are posted to YouTube and embedded in a course specific websites that I developed. The students are then required to watch the videos[^1] before attending class. Accompanying the videos are automatically graded quiz questions to ensure the students complete the videos and continuously provide a feedback assessment of their progress. The in-class part of the course is then offered in a computer lab where daily exercises are carried out in a way that offers students an opportunity to solve problems on their own with my immediate assistance when they need it. Independent projects replace tests in these courses. Thus far I have 100s of lecture videos for these classes. Interestingly, these videos are being watched more often by others, outside of the formal classroom. They currently have over 230K unique views representing more than 800K minutes of viewing on YouTube from interested people in almost every country in the world. Figure [1](#fig:views){reference-type="ref" reference="fig:views"} shows the historical accumulation of views for the HPC course. I taught this course for 3 semesters at UTSA and am preparing to teach a similar course in the Spring of 2017 to PGE students.
 
 ![Historical *daily* views of HPC course YouTube channel](./figs/views.png){#fig:views width="0.8\\linewidth"}
