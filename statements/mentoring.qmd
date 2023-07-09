@@ -1,0 +1,15 @@
+---
+title: Mentoring Statement
+author: John T. Foster 
+---
+
+
+```{python}
+#| label: tbl-students-graduated
+#| tbl-cap: Degrees Conferred to Graduate Students Supervised
+import pandas as pd
+
+df = pd.read_csv('./students_graduated.csv', delimiter='|')
+df = df.fillna('')
+df.style.hide(axis='index')
+```
