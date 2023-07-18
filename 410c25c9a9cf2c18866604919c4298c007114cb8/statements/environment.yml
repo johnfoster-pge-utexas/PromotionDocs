@@ -1,0 +1,9 @@
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.7.1
+  - notebook=6.5.4
+  - numpy=1.25.0
+  - pandas=1.5.3
+  - pip=23.1.2
+  - python=3.11.3

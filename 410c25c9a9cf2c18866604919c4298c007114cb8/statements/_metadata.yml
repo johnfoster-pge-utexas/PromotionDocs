@@ -1,0 +1,11 @@
+format:
+  html:
+    theme: cosmo
+    css: ../styles.css
+    toc: true
+  docx:
+    toc: false
+    number-sections: false
+    reference-doc: custom-reference-doc.docx
+execute:
+  freeze: true

@@ -1,0 +1,41 @@
+---
+title: Mentoring Statement
+author: John T. Foster 
+---
+
+**Introduction.** I find interacting with students outside of the classroom, both in a formal advisory setting, as well as in informal roles to be the most rewarding part of being a professor.  The ability to observe and assist students to develop into independent researchers, thinkers, and problem solvers was a major motivating factor in my decision to leave Sandia National Laboratories and join academia in 2011.  I view the students as the primary "product" of my research and teaching efforts, and I always treat them with the utmost respect.  I make every effort to learn their names in class and take time to speak to them in the hallways of CPE.  When I'm on the 3rd floor of CPE I attempt to make daily "walk-thrus" in the Caudle Center (PGEs student study lounge) to speak to the students.  I have an "open door" approach to office hours, and inform the students in class that I hope they will all stop by and ask questions of both a technical and personal nature.  I have supported and mentored both undergraduate and graduate students working in my lab as research assistants and in temporary assignments over summer sessions.  [@tbl-students-graduated] and [@tbl-students-current] summarize my formal advising efforts.  I will discuss the details of these endeavours in the following sections.
+
+I'd also like to add that I seek out opportunities to promote and assist students.  I have many graduate students who have had summer internships that were brought-about through my research connections.  I have helped my own graduate students and others on several occasions find work as summer interns at Sandia National Laboratories through my connections.  I never hesitate to take the time to write strong letters of recommendations for students seeking employment or applying to graduate programs. 
+
+
+**Advising graduate students.** [@tbl-students-graduated] shows the details of the eight PhD graduate students (6 sole supervised) that have completed their degrees under my supervision.  I have supervised students through thier PhD degrees in each of the departments I am affiliated, namely PGE, EM, and CSEM. Additionally, I have supervised 7 MS students.  For those not co-supervised, I provided GRAs for all them throughout the first 3-4 years of thier respective programs, and elsewhere worked to provide TAs.  Aside from Odai Elyas, who was sponsered by Saudi Aramco for his MS degree, none of my students have been "self-supported".
+
+The PhD student I am most proud to have advised is Mingyuan Yang.  Mingyuan struggled through his first few years as a PhD student, partly brought on by confidence and mental health issues.  Despite his apparent lack of progress, I never lost confidence in his technical ability and continued to encourage him.  Late in 2019, we eventually discussed him leaving the program and developed a plan where I would allow him to TA for me in the Spring of 2020 while he searched for a permanent job.  Additionally, in Janurary 2020, I was providing a professional education shortcourse on data science and machine learning in Houston, TX and told him that if he could make his way to Houston, he could sit in on the class free-of-charge, possibly providing him an upskilling opportunity to improve his resume.  Then COVID hit... The oil and gas industry was not hiring and he was faced with returning to China during the pandemic.  He used his newfound machine learning skills and reengaged with his research and went through a remarkable period of productivity and original thought.  He ended up publishing 3 papers in the last 2 years of his PhD, including one in Computational Methods in Applied Mechanics and Engineering (CMAME), the top journal in computational mechanics.  I am proud of Mingyuan for not giving up and proud of myself for recognizing his talent and sticking with him despite his struggles.
+
+Likely, my "best" PhD student in rank was Masoud Behzadinasab.  Masoud graduated with a PhD in Engineering Mechanics in 4 years during which time he published 7 papers in the some of the best journals in mechanics (JMPS, IJSS).  He won the "Best Student Paper Award" from the ASME Applied Mechanics Division at the 2018 ASME IMECE conference.  Masoud went on to a postdoc at Brown University and then was offerned a faculty position at Iowa State University which he declined to pursue a job in industry.  Later, in the Fall of 2022, he was invited for an on campus interview to UTs Aerospace Engineering and Engineering Mechanics (the department he graduated from).  While ultimately he was not selected for the position, just being invited was a huge accolade given the department and colleges culture of not typically hiring recent graduates.
+
+My goal for all PhD students is to publish at least 3 papers in good journals.  I firmly believe that the role of a PhD advisor is to seed ideas and provide mentorship, but allow the students the creative freedom to develop their own research paths.  The PhD degree to me is a sort-of certification or endorsement by the advisor, department, school, and university that the student has the skill-set required to do independent research.  I require my PhD students to demonstrate this skill-set, and am committed to preserving the quality of the PhD programs I am involved with.  Nevertheless, I encourage my students to move to the next phase of their careers when they have demonstrated their preparedness, and have no interest in holding back productive people to "squeeze a little more out of them." The ideal PhD student in my mind is one in which the advisors primary role is to simply tell them when they are finished.  
+
+My goal for MS students is to publish at least one paper in a good journal.  Xiao Xu's MS thesis research resulted in a paper in one of the best journal in  mechanics (journal paper 3 on CV).  While I've fallen short of that one paper goal in some cases, I believe all of the students research that I have supervised is "publishable", and in most cases we have manuscripts still in preparation held up by the student's departure.  All of the MS students that I have supervised have done "thesis options", and have finished in appropriate time-scales for the required effort of a thesis (i.e. 1.5--2.5 years).  They have all been encouraged and allowed to present their work at national and international conferences which I provided financial support to attend.
+
+I currently supervise and provide funding for a group of seven students (see [@tbl-students-current]). All of the students co-supervised with Micheal Pyrcz are funded through our DiReCT IAP which should provide stable support for all of these students through their expected graduation dates.  Mohammad Suaid is sponsored by Saudi Aramco, Nelson Morrow is working on his MS part-time as he has commitments to the US Army Reserve and using his GI Bill for support.  The other students have been supported on various other projects and with TAs.  I plan to recruit at least one new PhD student in the Spring 2023 to work on the DOE project that we were just awarded (see Pending Grants table in Research Statement).
+
+**Other significant mentoring approaches.** With regard to assisting (primarily graduate) students in their learning process, I maintain an active blog of helpful tips and answered questions. Generally these are related to [scientific computing topics](https://johnfoster.pge.utexas.edu/blog/posts/hackathon/). I try to maintain a philosophy where anytime I believe a student's question will come up again in the future, I write a blog detailing the path forward as opposed to providing an individual answer. This has paid off numerous times where I can simply point the students to a blog post where I've already answered their specific or a similar question.
+
+```{python}
+#| label: tbl-students-graduated
+#| tbl-cap: Degrees Conferred to Graduate Students Supervised
+import pandas as pd
+
+df = pd.read_csv('./students_graduated.csv', delimiter='|')
+df = df.fillna('')
+df.style.hide(axis='index')
+```
+
+```{python}
+#| label: tbl-students-current
+#| tbl-cap: Summary of Graduate Students Currenlty Supervised at UT Austin 
+df = pd.read_csv('./students_current.csv', delimiter='|')
+df = df.fillna('')
+df.style.hide(axis='index')
+```
