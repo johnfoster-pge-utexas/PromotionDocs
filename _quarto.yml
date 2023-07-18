@@ -1,12 +1,14 @@
 project:
   type: website
+  resources: robots.txt
 
 website:
   title: "Foster Full Promotion Docs"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
+  site-url: "https://johnfoster.pge.utexas.edu/PromotionDocs"
 
 format:
   html:
