@@ -3,6 +3,7 @@ title: Mentoring Statement
 author: John T. Foster 
 ---
 
+With regard to assisting (primarily graduate) students in their learning process, I maintain an active blog of helpful tips and answered questions. Generally these are related to [scientific computing topics](https://johnfoster.pge.utexas.edu/blog/posts/hackathon/). I try to maintain a philosophy where anytime I believe a student's question will come up again in the future, I write a blog detailing the path forward as opposed to providing an individual answer. This has paid off numerous times where I can simply point the students to a blog post where I've already answered their specific or a similar question.
 
 ```{python}
 #| label: tbl-students-graduated
