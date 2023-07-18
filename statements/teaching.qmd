@@ -38,7 +38,7 @@ I have written a piece of utility software that, using the continuous integratio
 
 During the transition to remote learning during the Spring 2020 semester brought on by the COVID19 pandemic, I was asked by our department chair to form an ad hoc committee on to provide "best practices for online/distance learning".  We quickly developed a [Wiki](https://wikis.utexas.edu/display/pgeonlineteaching/Online+lectures) based on my experiences using various technologies for teaching, and I even personally recorded some "How To" videos to assist other faculty with this transition.
 
-It has been my experience that many, if not most, engineering students are aided by visual learning tools and where appropriate I always try to incorporate these into my lectures. [@fig-animate] shows an animated computer visualization of tangent lines being drawn and new approximations being computed as a Newton's method nonlinear solver converges to a root. This is one of many similar such visual aides that I developed (i.e. wrote the *Python* code) for a course on numerical methods, these notebooks are currently being developed to an [open-source interactive book](https://johnfoster.pge.utexas.edu/numerical-methods-book).
+It has been my experience that many, if not most, engineering students are aided by visual learning tools and where appropriate I always try to incorporate these into my lectures. [@fig-animate] shows an [animated computer visualization](https://johnfoster.pge.utexas.edu/PromotionDocs/statements/img/newton.gif) of tangent lines being drawn and new approximations being computed as a Newton's method nonlinear solver converges to a root. This is one of many similar such visual aides that I developed (i.e. wrote the *Python* code) for a course on numerical methods, these notebooks are currently being developed to an [open-source interactive book](https://johnfoster.pge.utexas.edu/numerical-methods-book).
 
 ```{python}
 #| include: false
@@ -48,7 +48,7 @@ from matplotlib.animation import FuncAnimation
 import matplotlib
 from IPython import display
 
-matplotlib.rc("animation", html="jshtml")
+#matplotlib.rc("animation", html="jshtml")
 
 p = [0.4]
 
