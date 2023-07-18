@@ -1,1 +1,1 @@
-Sitemap: https://github.com/johnfoster-pge-utexas/PromotionDocs/sitemap.xml
+User-agent: * Disallow: /
