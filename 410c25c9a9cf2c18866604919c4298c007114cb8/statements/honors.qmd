@@ -1,0 +1,15 @@
+---
+title: Honors, Grants, and Awards Statement
+author: John T. Foster 
+---
+
+My research has been supported through competitive grants from ARO, AFOSR through a prestigious MURI grant, DOE, Sandia National Laboratories and numerous energy companies.  The distribution of these grants has been roughly 1/2 federal agencies/labs and 1/2 industry in rank. I co-founded the DiReCT IAP research consortium with Prof. Michael Pyrcz in 2019. Our IAP is one of the most successful new IAPs in the Hildebrand Department with 9 companies (Chevron, ExxonMobile, Coterra, Equinor, Shell, Total, Japex, BP, Aramco) as current members.  I was awarded an American Chemical Society Petroleum Research Fund "New Directions Grant" in 2021.
+
+I received the 2023 Society of Petroleum Engineers Regional Data Science and Engineering Award.  
+This award from the important Permian Basin Section "recognizes outstanding achievements in or
+contributions to the advancement of data science and engineering analytics in the industry." 
+In 2018, I was awarded a Moncrief Grand Challenge Award from the Oden Institute for Computational Engineering and Sciences.  In 2017, I was awarded the Hildebrand Department Faculty Teaching Award.
+
+I have given numerous invited talks at both national and international symposium and elite universities (Caltech, Northwestern, Johns Hopkins, Illinois, Vanderbilt, etc.). I recently delivered a conference plenary lecture at [Africomp 5](https://web.archive.org/web/20220816224636/https://africomp.info/speaker/). Among the other plenary speakers were [Wing Kam Lui](https://scholar.google.com/citations?user=lzQvgDoAAAAJ&hl=en&oi=ao), a chaired professor at Northwestern University with >60k citations, and [Peter Wriggers](https://scholar.google.com/citations?user=ERQy-O0AAAAJ&hl=en&oi=ao), >30k citations and widely viewed as one of the top technical and organizational leaders in computational mechanics in Europe, à la Tinsely Oden or Tom Hughes in the US.
+
+

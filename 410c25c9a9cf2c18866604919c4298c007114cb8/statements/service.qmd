@@ -1,0 +1,46 @@
+---
+title: Service Statement
+author: John T. Foster 
+---
+
+**Service to the Hildebrand Department.** In rank at UT-PGE, I have served on the following department committees:
+
+1.  PGE Undergraduate Studies 2015--2017, Chair 2019--present
+1.  PGE Graduate Studies, 2017--2018
+1.  PGE Graduate Admissions, 2015-2017 
+1.  PGE Department Award Committee 2014--2017
+1.  PGE Graduate Seminar Organizer, Fall 2017
+
+During the transition to remote learning during the Spring 2020 semester brought on by the COVID19 pandemic, I was asked by our department chair to form an ad hoc committee on to provide "best practices for online/distance learning".  We quickly developed a [Wiki](https://wikis.utexas.edu/display/pgeonlineteaching/Online+lectures) based on my experiences using various technologies for teaching, and I even personally recorded some "How To" videos to assist other faculty with this transition.
+
+Additionally, I have participated in the preparing and grading the math qualifying exam and have suggested and helped coordinate the visits of many seminar speakers. In general, I would say I am "engaged" in supplemental department activities at a level that only a few other PGE faculty are. I try in earnest to attend events like the distinguished alumni dinner and alumni tailgate, freshmen retreat, SPE student chapter activities, lunches with invited speakers, graduate recruiting events (in PGE, ASE/EM, and for the Oden Institute CSEM program), etc.
+
+**Service to the School and University.** As an associate professor, I haven't been called on very often to participate in committees above the department level, although I have served on the following committees:
+
+1.  Cockrell School Degrees & Courses 2021-2022 
+1.  Cockrell School Engineering Honors 2015-2019
+
+
+**Service to the Nation, State and Community.**  I have reviewed 1-2 papers a month for my entire time in rank. I have reviewed papers for the following journals: *Computational Geosciences, Journal of Applied Mechanics, Computational Methods in Applied Mechanics and Engineering, Journal of Computational Particle Mechanics, Journal of Microelectromechanical Systems, Computational Mechanics, Int. Journal of Fracture, Applied Mathematics & Computation, Int. Journal of Impact
+Engineering, Engineering Fracture Mechanics, Experimental Mechanics, Review of Scientific Instruments, Int. Journal of Multiscale Computational Engineering, Int. Journal of Solids and Structures, CMC: Computers, Materials, & Continua, Journal of Mechanics of Materials and
+Structures.*
+
+I serve as an [associate editor](https://www.springer.com/journal/42102/editors) for the *Journal of Peridynamics and Nonlocal Modeling*.
+
+I have served on NSF panels for the Mechanics of Materials program. I have reviewed proposals for the American Chemical Society's Petroleum Research Fund and DOEs BES and ASCR programs.
+
+I have been very active in service within the computational mechanics community, organizing numerous mini-symposia annually at conferences from ASME, EMI, WCCM, and USACM.
+
+More notably, I have organized several Thematic Workshops for USACM,
+including the following:
+
+1.  Workshop on Nonlocal Methods in Fracture
+
+    -   Held at UT-Austin, Janruary 15--16, 2018 
+
+1.  Workshop on Isogeometric Analysis and Meshfree Methods
+
+    -   Held at UCSD, October 10--12, 2016
+
+
+Most importantly, I was the **conference chair** of the [US National Congress on Computational Mechanics 15 (USNCCM 15)](http://15.usnccm.org/) held in Austin, TX, July 28--August 1, 2019. This conference was attended by >1000 people, with a budget >$1M, that returned >$200k profit to the professional organization ([USACM](https://www.usacm.org/)).  I worked for 4 years on this conference, wrote the proposal to USACM to host the conference in Austin, raised ~$60k in grants to support student travel for the conference (including $25k by way of an NSF proposal).    Two of our four plenary speakers were UT faculty and women (Karen Wilcoxx and Mary Wheeler)!  A third was a UT grad and the 4th is a Austin business owner.  All were invited/selected by myself.  My role in organizing contributed to considerable positive exposure for UT, UT PGE and the City of Austin.

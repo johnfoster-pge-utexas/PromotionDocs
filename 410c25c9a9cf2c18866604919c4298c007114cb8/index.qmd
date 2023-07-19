@@ -9,3 +9,7 @@
 [Teaching](./statements/teaching.qmd)
 
 [Mentoring](./statements/mentoring.qmd)
+
+[Service](./statements/service.qmd)
+
+[Honors](./statements/honors.qmd)
