@@ -1,0 +1,30 @@
+---
+title: Teaching Portfolio 
+author: John T. Foster 
+---
+
+My teaching portfolio is best viewed from the course webpages I maintain for each course.  Syllabi for the last semester taught can be found on the syllabus links and handouts, problems, written notes, and the video recordings of each lecture can be found at the other links as indicated.  
+
+* PGE 379/383 - High Performance Computing
+    * [Syllabus](https://johnfoster.pge.utexas.edu/HPC/syllabus/)
+    * Video Lectures
+        * [Intro. To Unix/Linux](https://johnfoster.pge.utexas.edu/HPC/course-mat/)
+        * [Intro. To Julia](https://youtu.be/p6VEd4jy2-E?si=f_PYRey4EyKUj7Eg)
+        * [Parallel Programming in Julila](https://youtu.be/M17uK5Q4i2o?si=NUZGL-7FyjobH_zw)
+    * [Assignments](https://github.com/orgs/PGE383-HPC/repositories?q=&type=public&language=&sort=)
+    * [e-Book](https://johnfoster.pge.utexas.edu/hpc-book/intro.html)
+
+* PGE 311 (formerly 310) - Numerical Methods and Programming 
+    * [Syllabus](https://johnfoster.pge.utexas.edu/PGE310-IntroProgramming/syllabus/)
+    * [Video Lectures](https://youtu.be/jSNs4I4abKg?si=Ebcf2db7qT-hi61Y)
+    * [Assignments](https://github.com/orgs/PGE311-Students/repositories?q=&type=public&language=&sort=)
+    * [e-Book](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro)
+ 
+* PGE 323M - Reservoir Simulation
+    * [Syllabus](https://johnfoster.pge.utexas.edu/PGE323M-ResEngineeringIII/syllabus/)
+    * [Video Lectures and Slides](https://johnfoster.pge.utexas.edu/PGE323M-ResEngineeringIII/course-mat/)
+    * [Assignments](https://github.com/orgs/PGE323M-Students/repositories?q=&type=public&language=&sort=)
+
+* PGE 334 - Reservor Geomechanics
+    * [Syllabus](https://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/syllabus/)
+    * [Video Lectures,  Slides, and Assignments](https://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/course-mat/)

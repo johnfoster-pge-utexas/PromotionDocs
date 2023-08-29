@@ -13,3 +13,5 @@
 [Service](./statements/service.qmd)
 
 [Honors](./statements/honors.qmd)
+
+[Teaching Portfolio](./statements/teaching_portfolio.qmd)
