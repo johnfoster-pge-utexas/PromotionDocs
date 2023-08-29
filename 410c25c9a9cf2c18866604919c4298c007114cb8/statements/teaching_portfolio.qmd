@@ -8,9 +8,9 @@ My teaching portfolio is best viewed from the course webpages I maintain for eac
 * PGE 379/383 - High Performance Computing
     * [Syllabus](https://johnfoster.pge.utexas.edu/HPC/syllabus/)
     * Video Lectures
-        * [Intro. To Unix/Linux](https://johnfoster.pge.utexas.edu/HPC/course-mat/)
-        * [Intro. To Julia](https://youtu.be/p6VEd4jy2-E?si=f_PYRey4EyKUj7Eg)
-        * [Parallel Programming in Julila](https://youtu.be/M17uK5Q4i2o?si=NUZGL-7FyjobH_zw)
+        * [Introduction To Unix/Linux](https://johnfoster.pge.utexas.edu/HPC/course-mat/)
+        * [Introduction To Julia](https://youtu.be/p6VEd4jy2-E?si=f_PYRey4EyKUj7Eg)
+        * [Parallel Programming in Juila](https://youtu.be/M17uK5Q4i2o?si=NUZGL-7FyjobH_zw)
     * [Assignments](https://github.com/orgs/PGE383-HPC/repositories?q=&type=public&language=&sort=)
     * [e-Book](https://johnfoster.pge.utexas.edu/hpc-book/intro.html)
 
